@@ -4,7 +4,7 @@
  * From http://www.vogella.com/articles/JavaAlgorithmsMergesort/article.html
  * 
  */
-package algo1;
+
 
 
 /**
